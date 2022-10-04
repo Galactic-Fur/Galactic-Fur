@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Galacic-Fur
 - 👀 I’m interested in typing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on myself
+- 💞️ I’m looking forward to collaborate with myself
 - 📫 How to reach me: You don't...
 
 <!---
